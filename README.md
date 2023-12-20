@@ -1,1 +1,1 @@
-# gamme or project describtiom
+# gamme
